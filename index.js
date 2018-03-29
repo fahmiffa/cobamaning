@@ -148,7 +148,7 @@ function auto_safeconvert() {
 }
 
 function a_to_fa() {
-	/*ini adalah sebuah komenter */
+	/*ini adalah sebuah komenter ditambahil lagi punya branch*/
     var a_to_vf = new Array();
     protected_links = protected_links.replace(" ", "");
     a_to_vf = protected_links.split(",");
